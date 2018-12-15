@@ -1,9 +1,9 @@
-# Maker's Digest - [Episode Name]
+# Maker's Digest - Modify Servo for Continuous Rotation
 ### [Description of Episode]
 
 This repository is companion to the video below:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Rq8XfGAF7uM/0.jpg)](https://www.youtube.com/watch?v=Rq8XfGAF7uM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tA4tTYJMe-I/0.jpg)](https://www.youtube.com/watch?v=tA4tTYJMe-I)
 
 ## Arduino
 The arduino code can be loaded into the arduino IDE by either downloading or cloning this repository and opening the .ino file in the arduino IDE.

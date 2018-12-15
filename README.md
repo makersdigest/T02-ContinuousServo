@@ -1,5 +1,5 @@
 # Maker's Digest - Modify Servo for Continuous Rotation
-### [Description of Episode]
+### How to modify a servo for continuous rotation. 
 
 This repository is companion to the video below:
 
